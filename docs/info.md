@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Covers an array of moving bits per layer, each changing with size and getting a determined offset from a falling edge from the clock
 
 ## How to test
 
-Explain how to use your project
+Connect to a screen and watch the display move like crazy
 
 ## External hardware
 
